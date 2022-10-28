@@ -1,5 +1,4 @@
-# Algoflow
-Algorithm Visualizer
+# Algorithm Visualizer
 Implemented linked list, backtracking, graph traversals, searching, and sorting algorithms.
 
 # Motivation
